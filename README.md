@@ -18,3 +18,10 @@ python train.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_ga
 python test.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_gan
 ```
 The test results will be saved to a html file here: `./results/maps_cyclegan/latest_test/index.html`.
+
+
+
+# myimages test
+
+![GITHUB](https://github.com/jick155/cycleGAN/blob/master/img/cyclegan_2.png?raw=true "git圖示")
+![GITHUB](https://github.com/jick155/cycleGAN/blob/master/img/cyclegan_21.png?raw=true "git圖示")
